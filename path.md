@@ -2,7 +2,9 @@
 
 ## Useful links:
 Cheat Sheet: https://www.interviewcake.com/data-structures-reference
+
 Top 7 data structures video: https://www.youtube.com/watch?v=cQWr9DFE1ww&ab_channel=Codebagel
+
 Top 7 data structures video: https://www.youtube.com/watch?v=kp3fCihUXEg&ab_channel=Codebagel
 
 ## ChatGPT recommendation
